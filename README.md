@@ -1,4 +1,4 @@
-# Forecasting Stock Price Using Long Short-Term Memory (LSTM)
+# Utilizing Recurrent Neural Networks via LSTM to Forecast Stock Prices
 
 ![LSTM](https://github.com/NavarroAlexKU/Forecasting-Stock-Price-Using-Long-Short-Term-Memory-LSTM-/blob/main/LSTM%20Arch.png?raw=true)
 
